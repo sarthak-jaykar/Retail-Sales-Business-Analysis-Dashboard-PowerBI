@@ -62,13 +62,10 @@ Check screnshots folder
 ```
 Retail-Sales-Business-Analysis-PowerBI
 │
-├── Retail Sales Dashboard.pbix
-├── Sample Superstore.csv
-├── README.md
-└── Screenshots
-    ├── dashboard.png
-    ├── data_model.png
-    └── power_query.png
+├── bi dashboard
+├── dataset
+├── Screenshots
+└── README.md
 ```
 
 ---
